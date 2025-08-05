@@ -19,4 +19,4 @@ DevLinks é uma página de perfil pessoal desenvolvida para reunir e compartilha
 
 ## Imagem
 
-<img width="577" height="791" alt="Captura de Tela 2025-08-04 às 21 41 25" src="https://github.com/user-attachments/assets/efb90e19-1d4a-4b89-81a1-3b3b375bf90d" />
+<img width="1345" height="791" alt="Captura de Tela 2025-08-05 às 17 19 46" src="https://github.com/user-attachments/assets/c93db0a4-0a72-4654-835d-056322ae1a34" />
